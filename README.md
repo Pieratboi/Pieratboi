@@ -3,13 +3,15 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket](https://github.com/Pieratboi/osTicket)
+  - [osTicket: Prerequisites and Installation](https://github.com/Pieratboi/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Pieratboi/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Pieratboi/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Pieratboi/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Pieratboi/azure-network-protocols)
  
 <h2> My Smoke Engine Repository: </h2>
-   <a href="https://github.com/Pieratboi/Smoke"> Smoke Engine </a>
+  - <a href="https://github.com/Pieratboi/Smoke"> Smoke Engine </a>
 
 <h2> My Socials: </h2>
 
