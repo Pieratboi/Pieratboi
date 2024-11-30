@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Pieratboi/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Pieratboi/azure-network-protocols)
+- <b>Phone Link</b>
+  - [Setting up Android Mobile device as webcam in Windows 11](https://github.com/Pieratboi/phone-webcam)
  
 <h2> My Smoke Engine Repository: </h2>
   - <a href="https://github.com/Pieratboi/Smoke"> Smoke Engine </a>
